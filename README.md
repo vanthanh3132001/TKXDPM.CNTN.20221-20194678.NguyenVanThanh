@@ -7,4 +7,4 @@ Lab 06
 Data modeling : https://github.com/vanthanh3132001/TKXDPM.CNTN.20221-20194678.NguyenVanThanh/tree/release/lab06/ClassDesignAndDataModeling/DataModeling
 <br>
 <br>
-Test : 
+Test : https://github.com/vanthanh3132001/TKXDPM.CNTN.20221-20194678.NguyenVanThanh/tree/release/lab06/Test
